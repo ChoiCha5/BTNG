@@ -1,0 +1,14 @@
+E:\BTNG\ptmoffline1\bin\Debug\net7.0\ptmoffline1.exe
+E:\BTNG\ptmoffline1\bin\Debug\net7.0\ptmoffline1.deps.json
+E:\BTNG\ptmoffline1\bin\Debug\net7.0\ptmoffline1.runtimeconfig.json
+E:\BTNG\ptmoffline1\bin\Debug\net7.0\ptmoffline1.dll
+E:\BTNG\ptmoffline1\bin\Debug\net7.0\ptmoffline1.pdb
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\ptmoffline1.GeneratedMSBuildEditorConfig.editorconfig
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\ptmoffline1.AssemblyInfoInputs.cache
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\ptmoffline1.AssemblyInfo.cs
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\ptmoffline1.csproj.CoreCompileInputs.cache
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\ptmoffline1.dll
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\refint\ptmoffline1.dll
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\ptmoffline1.pdb
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\ptmoffline1.genruntimeconfig.cache
+E:\BTNG\ptmoffline1\obj\Debug\net7.0\ref\ptmoffline1.dll

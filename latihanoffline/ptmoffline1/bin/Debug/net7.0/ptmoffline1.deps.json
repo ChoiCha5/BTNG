@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ptmoffline1/1.0.0": {
+        "runtime": {
+          "ptmoffline1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ptmoffline1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
