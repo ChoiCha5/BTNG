@@ -1,0 +1,14 @@
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\PtmOffline.GeneratedMSBuildEditorConfig.editorconfig
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\PtmOffline.AssemblyInfoInputs.cache
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\PtmOffline.AssemblyInfo.cs
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\PtmOffline.csproj.CoreCompileInputs.cache
+E:\BTNG\latihanoffline\PtmOffline\bin\Debug\net7.0\PtmOffline.exe
+E:\BTNG\latihanoffline\PtmOffline\bin\Debug\net7.0\PtmOffline.deps.json
+E:\BTNG\latihanoffline\PtmOffline\bin\Debug\net7.0\PtmOffline.runtimeconfig.json
+E:\BTNG\latihanoffline\PtmOffline\bin\Debug\net7.0\PtmOffline.dll
+E:\BTNG\latihanoffline\PtmOffline\bin\Debug\net7.0\PtmOffline.pdb
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\PtmOffline.dll
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\refint\PtmOffline.dll
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\PtmOffline.pdb
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\PtmOffline.genruntimeconfig.cache
+E:\BTNG\latihanoffline\PtmOffline\obj\Debug\net7.0\ref\PtmOffline.dll
